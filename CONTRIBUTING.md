@@ -8,7 +8,7 @@ This document is a set of guidelines for contributing to Puffin Facts on GitHub.
 
 ## Participation Guidelines
 
-This project adhere's to [Mozilla's Code of Conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold this code. Please report unacceptable behavior to nicole@puffinfactsforever.biz
+This project adheres to [Mozilla's Code of Conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold this code. Please report unacceptable behavior to nicole@puffinfactsforever.biz
 
 ## How to submit changes
 
